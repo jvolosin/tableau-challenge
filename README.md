@@ -4,6 +4,7 @@
 In this scenario, for the purpose of our analytics, it is tAugust of 2015 and the city bike initiative has been in play since 2013.
 City officials would like to see if and how the program has grown annualy (in this case we will look at each July) so they can decide if this new program is worth continued investment. They would also like to know what the popular start and end stations are so they can allocate their resources accordingly.
 Other insights for where the $$$ should go are also appreciated. 
+Tableau Story Link: (https://public.tableau.com/profile/jessica.volosin#!/vizhome/CityBikeStory_16131401289180/CityBikeStory)
 
 ![Title](Images/citybike.jpg)
 
